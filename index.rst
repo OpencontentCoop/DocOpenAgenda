@@ -83,6 +83,13 @@ Un evento può passare di stato attraverso un flusso stabilito. Tipicamente (con
 La descrizione del funzionamento del sistema OpenAgenda si divide in due parti: un manuale per \ |STYLE15|\ , e un manuale per \ |STYLE16|\ 
 
 
+.. toctree:: 
+
+    manuale_amministratori.rst
+
+    manuale_associazioni.rst
+
+
 .. bottom of content
 
 
