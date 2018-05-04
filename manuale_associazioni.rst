@@ -146,9 +146,7 @@ Per ogni immagine caricata è importante inserire le informazioni principali, e 
 Le immagini possono venire modificate anche in seguito alla pubblicazione dell’evento. 
 
 
-.. topic:: Si raccomanda di:
-
-    
+.. admonition:: Si raccomanda di
 
     * se possibile, evitare che non siano presenti scritte testuali sulle immagini caricate; in alcune visualizzazioni, potrebbero non essere leggibili;
     
