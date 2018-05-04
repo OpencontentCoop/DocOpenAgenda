@@ -20,11 +20,9 @@ Esempio tipico di funzionamento
 La situazione più comune è quella che vede le associazioni territoriali che curano la propria scheda (mantenendo aggiornati i dati) e caricano i propri eventi sul sistema OpenAgenda. Una redazione centrale si occupa poi della moderazione degli eventi, aggiustando eventuali errori, inserendo eventuali informazioni mancanti e/o immagini, prima di renderli visibili sul calendario.
 
 
-.. topic:: Collaborazione e moderazione
+.. admonition:: Collaborazione e moderazione
 
-    
-
-    Due concetti fondamentali per comprendere il funzionamento di OpenAgenda sono collaborazione e moderazione: OpenAgenda può infatti essere configurato per la collaborazione, in modo da consentire l’inserimento di eventi da parte di utenti esterni (le Associazioni). Inoltre è possibile attivare la moderazione in modo che la pubblicazione degli eventi inseriti dalle associazioni venga validata da una redazione centrale prima di essere resi visibili sul calendario.
+    Due concetti fondamentali per comprendere il funzionamento di OpenAgenda sono \ |STYLE3|\  e \ |STYLE4|\ : OpenAgenda può infatti essere configurato per la collaborazione, in modo da consentire l’inserimento di eventi da parte di utenti esterni (le Associazioni). Inoltre è possibile attivare la moderazione in modo che la pubblicazione degli eventi inseriti dalle associazioni venga validata da una redazione centrale prima di essere resi visibili sul calendario.
 
 .. _h1522732954b123f6337262c2d262917:
 
@@ -33,15 +31,15 @@ Visualizzazione degli eventi
 
 Gli eventi caricati sul sistema OpenAgenda sono visibili in tre modalità:
 
-* \ |STYLE3|\  Gli eventi vengono mostrati in una lista che li presenta in ordine cronologico per data di inizio. E” possibile filtrare per periodo (es. «i prossimi 7 giorni», «i prossimi 30 giorni» ), per tipologia evento, per destinatari.
+* \ |STYLE5|\  Gli eventi vengono mostrati in una lista che li presenta in ordine cronologico per data di inizio. E” possibile filtrare per periodo (es. «i prossimi 7 giorni», «i prossimi 30 giorni» ), per tipologia evento, per destinatari.
 
-* \ |STYLE4|\  La rappresentazione a calendario è utile per verificare la concomitanza di eventi in una stessa giornata, o per verificare la presenza di eventi in un determinato periodo.
+* \ |STYLE6|\  La rappresentazione a calendario è utile per verificare la concomitanza di eventi in una stessa giornata, o per verificare la presenza di eventi in un determinato periodo.
 
-* \ |STYLE5|\  In fase di inserimento eventi, viene richiesto di inserire la geolocalizzazione. Questo consente di rappresentare i contenuti su una mappa, come illustrato in figura.
+* \ |STYLE7|\  In fase di inserimento eventi, viene richiesto di inserire la geolocalizzazione. Questo consente di rappresentare i contenuti su una mappa, come illustrato in figura.
 
 \ |IMG1|\ 
 
-\ |STYLE6|\ 
+\ |STYLE8|\ 
 
 
 ..  Important:: 
@@ -55,13 +53,13 @@ Tipi di accesso
 
 Gli utenti che possono accedere al sistema OpenAgenda sono:
 
-* \ |STYLE7|\  possono gestire le configurazioni del sistema (attivare la modalità collaborativa, attivare la moderazione, modificare titoli e testi generali);
+* \ |STYLE9|\  possono gestire le configurazioni del sistema (attivare la modalità collaborativa, attivare la moderazione, modificare titoli e testi generali);
 
-* \ |STYLE8|\  possono inserire eventi, modificare tutti gli eventi inseriti, moderare gli eventi inseriti dalle Associazioni;
+* \ |STYLE10|\  possono inserire eventi, modificare tutti gli eventi inseriti, moderare gli eventi inseriti dalle Associazioni;
 
-* \ |STYLE9|\  possono gestire la propria scheda e inserire eventi;
+* \ |STYLE11|\  possono gestire la propria scheda e inserire eventi;
 
-* \ |STYLE10|\  se il sistema dei commenti è attivato, utenti registrati possono inserire dei commenti sotto gli eventi inseriti nel sistema
+* \ |STYLE12|\  se il sistema dei commenti è attivato, utenti registrati possono inserire dei commenti sotto gli eventi inseriti nel sistema
 
 .. _h3e7c450161b324e527373343e537c6b:
 
@@ -72,15 +70,15 @@ Nel sistema OpenAgenda, ogni evento inserito viene associato a un particolare st
 
 Un evento può passare di stato attraverso un flusso stabilito. Tipicamente (con moderazione attiva), gli stati associabili ad un evento sono:
 
-* \ |STYLE11|\  un nuovo evento viene associato a questo stato
+* \ |STYLE13|\  un nuovo evento viene associato a questo stato
 
-* \ |STYLE12|\  quando un’associazione vuole pubblicare il proprio evento, lo sposta da “in lavorazione” a “in moderazione”. Una email viene inviata al gruppo dei moderatori.
+* \ |STYLE14|\  quando un’associazione vuole pubblicare il proprio evento, lo sposta da “in lavorazione” a “in moderazione”. Una email viene inviata al gruppo dei moderatori.
 
-* \ |STYLE13|\  un moderatore controlla l’evento (in stato “In moderazione), apporta eventuali controlli e correzioni, e poi imposta lo stato “Accettato”. Un evento in questo stato è visibile sul calendario web
+* \ |STYLE15|\  un moderatore controlla l’evento (in stato “In moderazione), apporta eventuali controlli e correzioni, e poi imposta lo stato “Accettato”. Un evento in questo stato è visibile sul calendario web
 
-* \ |STYLE14|\  un moderatore controlla l’evento (in stato “In moderazione) e decide di non pubblicarlo sul calendario web (ad esempio perché è incompleto, o un duplicato di un altro evento esistente). Assegna questo stato. Gli eventi in questo stato non sono visibili sul calendario web.
+* \ |STYLE16|\  un moderatore controlla l’evento (in stato “In moderazione) e decide di non pubblicarlo sul calendario web (ad esempio perché è incompleto, o un duplicato di un altro evento esistente). Assegna questo stato. Gli eventi in questo stato non sono visibili sul calendario web.
 
-La descrizione del funzionamento del sistema OpenAgenda si divide in due parti: un manuale per \ |STYLE15|\ , e un manuale per \ |STYLE16|\ 
+La descrizione del funzionamento del sistema OpenAgenda si divide in due parti: un manuale per \ |STYLE17|\ , e un manuale per \ |STYLE18|\ 
 
 
 .. toctree:: 
@@ -99,33 +97,37 @@ La descrizione del funzionamento del sistema OpenAgenda si divide in due parti: 
 
 .. |STYLE2| replace:: **Associazioni**
 
-.. |STYLE3| replace:: **Lista (con filtri).**
+.. |STYLE3| replace:: **collaborazione**
 
-.. |STYLE4| replace:: **Calendario.**
+.. |STYLE4| replace:: **moderazione**
 
-.. |STYLE5| replace:: **Mappa.**
+.. |STYLE5| replace:: **Lista (con filtri).**
 
-.. |STYLE6| replace:: *Visualizzazione a lista, mappa e calendario in OpenAgenda*
+.. |STYLE6| replace:: **Calendario.**
 
-.. |STYLE7| replace:: **Utenti amministratori:**
+.. |STYLE7| replace:: **Mappa.**
 
-.. |STYLE8| replace:: **Utenti moderatori:**
+.. |STYLE8| replace:: *Visualizzazione a lista, mappa e calendario in OpenAgenda*
 
-.. |STYLE9| replace:: **Associazioni:**
+.. |STYLE9| replace:: **Utenti amministratori:**
 
-.. |STYLE10| replace:: **Utenti registrati:**
+.. |STYLE10| replace:: **Utenti moderatori:**
 
-.. |STYLE11| replace:: **In lavorazione:**
+.. |STYLE11| replace:: **Associazioni:**
 
-.. |STYLE12| replace:: **In attesa di moderazione:**
+.. |STYLE12| replace:: **Utenti registrati:**
 
-.. |STYLE13| replace:: **Accettato:**
+.. |STYLE13| replace:: **In lavorazione:**
 
-.. |STYLE14| replace:: **Rifiutato:**
+.. |STYLE14| replace:: **In attesa di moderazione:**
 
-.. |STYLE15| replace:: **Associazioni e Istituti culturali**
+.. |STYLE15| replace:: **Accettato:**
 
-.. |STYLE16| replace:: **Amministratori e Moderatori.**
+.. |STYLE16| replace:: **Rifiutato:**
+
+.. |STYLE17| replace:: **Associazioni e Istituti culturali**
+
+.. |STYLE18| replace:: **Amministratori e Moderatori.**
 
 .. |IMG1| image:: static/Index_1.png
    :height: 308 px
