@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from __future__ import unicode_literals
+
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = "Manuale OpenAgenda"
 settings_copyright_copyleft = 'Opencontent'
