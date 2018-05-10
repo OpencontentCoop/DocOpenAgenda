@@ -4,4 +4,4 @@ Questo repository contiene la documentazione relativa a [Open Agenda](https://ww
 
 La documentazione è pubblicata su ReadTehDocs:
 
-[Manuale Open Agenda] (http://manuale-openagenda.readthedocs.io/)
+[Manuale Open Agenda](http://manuale-openagenda.readthedocs.io/)
